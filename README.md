@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Mi Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hey, I'm Izzi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align='center'>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - <a href='https://duckduckgo.com/?q=Albert+Einstein' target='_blank'>Albert Einstein</a>.</h4>
 
